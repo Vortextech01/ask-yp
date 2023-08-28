@@ -226,7 +226,7 @@ export default function Home() {
           </form>
           <div className="pb-3 text-center text-xs px-2 md:px-[60px]">
             <p className="text-center text-xs text-primary/60">
-                This project waas built by{" "}
+                This project waas powered by{" "}
                 <a
                     href="https://twitter.com/jal_eelll"
                     target="_blank"
