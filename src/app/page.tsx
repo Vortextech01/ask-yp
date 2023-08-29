@@ -233,7 +233,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="transition-colors hover:text-primary-foreground"
                 >
-                    Jaleel Bennett
+                    Jaleel Bennet0
                 </a>{" "}
                 with{" "}
                 <a
